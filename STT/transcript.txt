@@ -1,0 +1,2 @@
+service_region: eastus
+/Users/keltonzhang/Desktop/Dell_Proj/amicorpus/ES2008a/audio/ES2008a.Mix-Headset16khz.wav
